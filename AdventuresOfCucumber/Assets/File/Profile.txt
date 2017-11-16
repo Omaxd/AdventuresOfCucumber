@@ -1,0 +1,10 @@
+MaxHp 5
+CurrentHp 5
+MaxResist 20
+CurrentResist 20
+MaxSlices 10
+CurrentSlices 38
+MoveSpeed 20
+MaxSpeed 40
+CanMakeDoubleJump 0
+Money 67

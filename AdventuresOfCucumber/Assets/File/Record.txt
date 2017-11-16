@@ -1,0 +1,24 @@
+Time: 99.2536 -- Money: 96 -- HP: 5 -- Slices: 3
+Time: 2.037731 -- Money: 0 -- HP: 5 -- Slices: 10
+Time: 143.528 -- Money: 144 -- HP: 4 -- Slices: 3
+Time: 42.16375 -- Money: 21 -- HP: 5 -- Slices: 9
+Time: 355.2921 -- Money: 158 -- HP: 1 -- Slices: 1
+Time: 22.63943 -- Money: 19 -- HP: 5 -- Slices: 10
+Time: 152.7583 -- Money: 133 -- HP: 3 -- Slices: 2
+Time: 178.2634 -- Money: 93 -- HP: 1 -- Slices: 2
+Time: 136.1348 -- Money: 119 -- HP: 4 -- Slices: 1
+Time: 177.9301 -- Money: 103 -- HP: 3 -- Slices: 3
+
+Time: 18.04424 -- Money: 55 -- HP: 5 -- Slices: 11 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: No
+Time: 161.1733 -- Money: 163 -- HP: 1 -- Slices: 3 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 116.7439 -- Money: 327 -- HP: 2 -- Slices: 1 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 122.9529 -- Money: 227 -- HP: 3 -- Slices: 0 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 120.5917 -- Money: 343 -- HP: 4 -- Slices: 0 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 122.8646 -- Money: 508 -- HP: 1 -- Slices: 2 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 6.419718 -- Money: 19 -- HP: 5 -- Slices: 10 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 5.105955 -- Money: 28 -- HP: 5 -- Slices: 10 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 6.379846 -- Money: 16 -- HP: 5 -- Slices: 11 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 6.960138 -- Money: 25 -- HP: 5 -- Slices: 11 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 4.27882 -- Money: 25 -- HP: 5 -- Slices: 12 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 5.527994 -- Money: 33 -- HP: 5 -- Slices: 13 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
+Time: 100.4474 -- Money: 113 -- HP: 5 -- Slices: 2 -- Slices achievement: Yes -- Time achievement: Yes -- Money achievement: Yes
